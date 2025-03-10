@@ -9,7 +9,7 @@ I'm a student at Brigham Young University-Idaho interested in Software Engineeri
 - Skills: MVC, CI/CD Pipeline
 
 ## Find my Socials below:
-- Sharing my learning on [LinkedIn](https://www.linkedin.com/in/tristan-a-galloway)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tristan-a-galloway)
 
 ## My Stats!
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tristan-galloway)](https://github.com/tristan-galloway/github-readme-stats)
