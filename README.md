@@ -15,3 +15,5 @@ I'm Tristan Galloway, a student at Brigham Young University-Idaho interested in 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tristan-galloway)](https://github.com/tristan-galloway/github-readme-stats)
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+
+![Visitor Count](https://profile-counter.glitch.me/tristan-galloway/count.svg)
