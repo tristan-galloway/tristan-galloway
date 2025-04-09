@@ -5,8 +5,9 @@
 I'm a student at Brigham Young University-Idaho interested in Software Engineering. Welcome to my GitHub profile! I enjoy programming in C# as well as building webpages using HTML, CSS, and JavaScript. I am seeking internships in the Southeast Idaho area or remote options.
 
 ## Technologies and Tools
-- Proficient in: C#, Python, HTML CSS and Javascript, Node, NPM, PNPM, Vite, Render, Trello, Git, 
-- Skills: MVC, CI/CD Pipeline
+- Programming Languages: C#, Python, HTML, CSS, JavaScript, TypeScript
+- Libraries & Frameworks: Node, NPM, PNPM, Vite, MVC, Azure, Blazor
+- Tools: Git, Trello, Render, CI/CD Pipeline
 
 ## Find my Socials below:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tristan-a-galloway)
